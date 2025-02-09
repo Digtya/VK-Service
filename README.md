@@ -46,7 +46,7 @@ IP-адрес контейнера.
 
 **Клонируйте репозиторий** :
 
-Copy git clone https://github.com/yourusername/container-monitoring.git
+Copy git clone https://github.com/Digtya/VK-Service.git
 
 cd container-monitoring
 
